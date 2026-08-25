@@ -1,10 +1,10 @@
-# Hello! Welcome to my profile!
+# 👋🏻 Hello! Welcome to my profile!
 
 - I'm a **full-stack developer** working with various technologies. I am also an **AI researcher**.
 - My main language is **Java**, but I build applications using many other tech stacks.
 - Feel free to check out my projects and reach out with any questions or comments &#x1F643;
 
-## How to contact me
+## ☎️ How to contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-fernando-turela-cordova-367ba9328/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandoturela3@gmail.com)
 
