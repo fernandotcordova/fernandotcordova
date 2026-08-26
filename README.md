@@ -40,8 +40,8 @@
 </a>
 
 ## 🔬 Current Focus & Research
-- 🔭 I’m currently working on Academic apprenticeship
-- 🧠 I’m currently researching **Artificial Intelligence & Machine Learning**
+- 🧠 I’m currently working on Academic apprenticeship
+- 🔭 I’m currently researching **Artificial Intelligence & Machine Learning**
 
 <p align="left">
   <img src="octocat-1787628667582.png" alt="my customized octocat" width="300" />
